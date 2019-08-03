@@ -1,13 +1,19 @@
 {
   "name": "react-native-trust-wallet-core",
   "version": "1.0.0",
-  "description": "## Getting started",
+  "description": "A React Native module for using Trust Wallet Core library",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "trust-wallet-core",
+    "trust wallet",
+    "blockchain",
+    "cryptocurrency",
+    "wallet",
+    "crypto wallet"
   ],
   "author": "regalfaith",
   "license": "MIT",
